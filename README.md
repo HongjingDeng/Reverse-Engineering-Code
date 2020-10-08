@@ -3,7 +3,7 @@
 
 In the `Develop` folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility. Below is a tutorial explaining *every* file and its purpose. For example, how one file is dependant on other files.
 
-## Instroduction
+## Instroduction :innocent:
 Software​ reverse engineering can help to improve the understanding of the underlying source code for the maintenance and improvement of the software, relevant information can be extracted in order to make a decision for software development and graphical representations of the code can provide alternate views regarding the source code, which can help to detect and fix a software bug or vulnerability. Frequently, as some software develops, its design information and improvements are often lost over time, but this lost information can usually be recovered with reverse engineering. This process can also help to cut down the time required to understand the source code, reducing the overall cost of the software development.​ Reverse engineering can also help to detect and eliminate a malicious code written to the software with better code detectors. Reversing a source code can be used to find alternate uses of the source code, such as to detect unauthorized replication of the source code where it wasn't intended to be used, or to reveal how a competitor's product was built. 				
 ![demo](./assets/reverse-eng-demo.png)
 
